@@ -1,0 +1,1 @@
+Place fogo1.png ... fogo8.png here.
